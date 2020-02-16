@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|  2   | [Updated the name and fixed the address for the selected region](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I updated the name of a store and fixed its address  |
 |     |     |     |      |
 |     |     |     |      |
