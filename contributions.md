@@ -24,6 +24,7 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [Updated the name and fixed the address for the selected region](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | openstreetmap|   I updated the name of a store and fixed its address  |
-|  2   | [Updated the name and fixed the address for the selected region](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | openstreetmap|   need to update |
+|  2   | [Added a recent clinic that opened and updated the address](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | openstreetmap|   Added a clinic and updated the official address of the clinic |
+|  2   | [Added a recent clinic that opened and updated the address](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | openstreetmap|   to be updated |
 |     |     |     |      |
 |     |     |     |      |
