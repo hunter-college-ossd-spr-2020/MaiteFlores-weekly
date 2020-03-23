@@ -30,3 +30,5 @@ following the same syntax.
 |  6  | [Added Laundromat](https://www.openstreetmap.org/changeset/82032924)    | openstreetmap| I added a well known laundromat to the map. I also included the hours, however since this laundromat is owned by an older Korean couple there isn't much information to include other than the name of the location and the hours its open.|
 |  6  | [Added Supermarket](https://www.openstreetmap.org/changeset/82033849)    | openstreetmap| I added a supermarket that has been in the area for years. Its a supermarket that I grew up going to and a lot of locals use that supermarket as it is in close proximity to many homes in the area.|
 |  7   | [Fixed some spelling mistakes](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/pull/4)    |  GitHub   |  I went through Michelle's weekly blogs and found some minor spelling errors so I fixed them   |
+|  8   | [Added general store](https://www.openstreetmap.org/changeset/82500244)    |  OpenStreetMap   |  Added a general store in my old neighborhood. This store is often busy and lots of locals visit this store   |
+
