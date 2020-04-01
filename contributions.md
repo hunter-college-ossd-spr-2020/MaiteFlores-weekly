@@ -37,6 +37,7 @@ following the same syntax.
 |  10   | [edited peer's week2 blog](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/3) |  GitHub  |  When looking through Nannaquin's week2 blog I found a few misspelled words so I fixed them and I also made a slight change to the third sentence in the first paragraph|
 |  10   | [edited three blogs from peer's posts](https://github.com/hunter-college-ossd-spr-2020/Mtarek7900-weekly/pull/3) |  GitHub  |  I read through some of Mtarek's blog posts and while reading I found that one or two words were misspelled. Since the misspelled words were always missing one letter, correcting the misspelled words was pretty quick and easy.|
 |  10   | [David So wiki edit](https://en.wikipedia.org/w/index.php?title=David_So&action=history) | Wikipedia  | Added the streaming platforms for which David's film is available to watch.|
+|  10   | [Lee's wiki edit](https://en.wikipedia.org/w/index.php?title=Lee_Kwang-soo&action=history) | Wikipedia  | Updated Lee's current activity in 2020.|
 
 
 
