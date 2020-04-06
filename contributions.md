@@ -38,6 +38,7 @@ following the same syntax.
 |  10   | [edited three blogs from peer's posts](https://github.com/hunter-college-ossd-spr-2020/Mtarek7900-weekly/pull/3) |  GitHub  |  I read through some of Mtarek's blog posts and while reading I found that one or two words were misspelled. Since the misspelled words were always missing one letter, correcting the misspelled words was pretty quick and easy.|
 |  10   | [David So wiki edit](https://en.wikipedia.org/w/index.php?title=David_So&action=history) | Wikipedia  | Added the streaming platforms for which David's film is available to watch.|
 |  10   | [Lee's wiki edit](https://en.wikipedia.org/w/index.php?title=Lee_Kwang-soo&action=history) | Wikipedia  | Updated Lee's current activity in 2020.|
+|  10   | [Seoul Station wiki edit](https://en.wikipedia.org/w/index.php?title=Seoul_Station_(film)&action=history) | Wikipedia  | I added the DVD and Blue-ray release date of this animated film as well as the streaming platforms this film is available to view.|
 
 
 
