@@ -42,7 +42,7 @@ following the same syntax.
 |  11   | [TDLorenz-weekly edit](https://github.com/hunter-college-ossd-spr-2020/TDLorenz-weekly/pull/1) | GitHub  | I fixed one sentence in the second paragraph and I also fixed some misspelled words.|
 |  11   | [Added residential building](https://www.openstreetmap.org/changeset/84288313) | OpenStreetMap | I added a residential building in my neighborhood|
 |  11   | [Added restaurant](https://www.openstreetmap.org/changeset/84288733) | openstreetmap| I added a restaurant on East Gun Hill Road that still does deliveries during the pandemic.|
-
+|  12   | [Peer edit](https://github.com/hunter-college-ossd-spr-2020/MarceloDamian-weekly/pull/8) | GitHub| I edited MarceloDamian's week 4 blog. I made some minor changes to his spelling and rephrased his last sentence in the blog. | 
 
 
 
